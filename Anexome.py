@@ -227,10 +227,15 @@ if section == "🏠 Overview":
         st.subheader("✨ Key Features")
         st.write("""
         • **Comprehensive Art Form Database**: Explore 127+ traditional art forms across India
+
         • **Tourism Analytics**: Seasonal trends, visitor patterns, and economic impact
+
         • **Hidden Gems Discovery**: Uncover lesser-known cultural treasures
+
         • **Responsible Tourism Guidelines**: Sustainable travel recommendations
+                 
         • **Real-time Impact Tracking**: Monitor preservation efforts and tourism effects
+                 
         • **Festival Calendar**: Plan visits around cultural celebrations
         """)
     
@@ -563,21 +568,25 @@ elif section == "🌱 Responsible Tourism":
         st.subheader("🌿 Sustainable Tourism Practices")
         st.write("""
         **For Travelers:**
+                 
         • Learn cultural etiquette before visiting
+                 
         • Support local artisans directly
-        • Participate in workshops vs observation
+                            
         • Respect photography restrictions
+                 
         • Choose community-based guides
-        • Use eco-friendly transportation
-        • Stay in locally-owned accommodation
-        
+                 
         **For Communities:**
+                 
         • Capacity building for local guides
+                 
         • Artisan cooperatives for fair pricing
+                 
         • Visitor management systems
+                 
         • Preserve authenticity in performances
-        • Reinvest tourism revenue in preservation
-        • Develop sustainable infrastructure
+                 
         """)
     
     with col2:
